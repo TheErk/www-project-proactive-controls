@@ -1,0 +1,10 @@
+  [_metadata_:author]:- "Eric Noulard and Rémi Bove"
+  [_metadata_:tags]:- "OWASP"
+  [_metadata_:Product]:- "OWASP Pro Active Controls"
+  [_metadata_:Category]:- "Technical Notes"
+  [_metadata_:audience]:- "public"
+  [_metadata_:ft:title]:- "OWASP Pro Active Controls"
+  [_metadata_:ft:originID]:- "owasp-proactive-controls-en"
+  [_metadata_:ft:lang]:- "en-US"
+  [_metadata_:media_dir]:- "../../assets/images"
+
